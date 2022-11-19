@@ -27,4 +27,4 @@ status-website:
     - title: Status
       href: /
 i18n:
-  footer: [https://t.me/chdiptv](https://t.me/chdiptv)
+  footer: '[https://t.me/chdiptv](https://t.me/chdiptv)'
