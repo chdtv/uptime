@@ -11,7 +11,7 @@ sites:
     url: https://stream3.chd-servers.ml/
   - name: Server 4
     url: https://stream4-ru.chd-servers.ml/
-  - name: Server 4
+  - name: Server 5
     url: https://stream8.chd-servers.ml/
 
 status-website:
