@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Server 1
     url: https://stream1.chd-servers.ml/
+  - name: Dynamic server (archive)
+    url: https://stream2-dynamic.chd-servers.ml/
   - name: Server 2
     url: https://stream2.chd-servers.ml/
   - name: Server 3
