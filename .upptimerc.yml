@@ -18,6 +18,7 @@ sites:
 
 status-website:
   cname: status.chd-tv.tk
+  favicon: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
   name: CHD-TV
