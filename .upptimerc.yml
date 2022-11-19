@@ -19,8 +19,8 @@ sites:
 status-website:
   cname: status.chd-tv.tk
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
+  name: CHD-TV
   introTitle: "**CHD-TV** status"
   introMessage: This is a status page which uses **real-time** data from our servers
   navbar:
