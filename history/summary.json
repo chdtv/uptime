@@ -4,19 +4,19 @@
     "url": "https://stream1.chd-servers.ml/",
     "icon": "https://icons.duckduckgo.com/ip3/stream1.chd-servers.ml.ico",
     "slug": "server-1",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1710,
-    "timeDay": 2008,
-    "timeWeek": 1710,
-    "timeMonth": 1710,
-    "timeYear": 1710,
+    "status": "up",
+    "uptime": "88.75%",
+    "uptimeDay": "79.77%",
+    "uptimeWeek": "88.75%",
+    "uptimeMonth": "88.75%",
+    "uptimeYear": "88.75%",
+    "time": 1628,
+    "timeDay": 1410,
+    "timeWeek": 1628,
+    "timeMonth": 1628,
+    "timeYear": 1628,
     "dailyMinutesDown": {
-      "2022-11-21": 1
+      "2022-11-21": 291
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-21": 430,
+      "2022-11-21": 721,
       "2022-11-20": 1440,
       "2022-11-19": 334
     }
