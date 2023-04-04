@@ -8,7 +8,7 @@ sites:
   - name: Server 1
     url: https://stream1.servers.chd-tv.tk/
   - name: Server 2
-    url: http://stream3.servers.chd-tv.tk/admin
+    url: http://stream3.servers.chd-tv.tk/
   - name: Server 3
     url: https://stream6.servers.chd-tv.tk/
 
